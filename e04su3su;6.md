@@ -28,3 +28,9 @@ Git 我知道，我有看過那個 GitHub 什麼的…
 
 本書後面也有介紹到如何使用 GitHub 與其它人共同協作，雖然 GitHub 很好用，但別忘了 Git 才是本體喔。
 
+def hello():
+    print('Hello, wold')
+
+window = tk,Tk()
+window.title(
+window
