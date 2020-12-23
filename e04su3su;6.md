@@ -34,3 +34,16 @@ def hello():
 window = tk,Tk()
 window.title(
 window
+import tkintter as tk
+import math
+
+window = tk.TK()_
+window.title('BMI　Ａｐｐ')
+window.geometry('800x600')
+window.configure(background='yellow')
+
+header_ladel = tk.Ladel(wi
+
+
+
+window.mainloop()
